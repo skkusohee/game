@@ -1,0 +1,219 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.1348; Version 2009; 64bit' Language: 'ko' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/sohee/Desktop/21_2/gameworkshop/GameWwc/2d/workshop/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51675
+Successfully changed project path to: C:/Users/sohee/Desktop/21_2/gameworkshop/GameWwc/2d/workshop/My project
+C:/Users/sohee/Desktop/21_2/gameworkshop/GameWwc/2d/workshop/My project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sohee/Desktop/21_2/gameworkshop/GameWwc/2d/workshop/My project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003088 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.284 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2284ms)
+		BeginReloadAssembly (64ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (373ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (130ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (146ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (65ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1052ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (843ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (362ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (228ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2536.
+Total: 2.915000 ms (FindLiveObjects: 0.210500 ms CreateObjectMapping: 0.049400 ms MarkObjects: 2.596200 ms  DeleteObjects: 0.057700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(1d72e82d51dc1494d808c71768da0796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(1d72e82d51dc1494d808c71768da0796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc443b5bcda917c8c83301d42124246') in 0.018178 seconds 
+  Import took 0.021233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.372775 seconds.
+  path: Assets/Prefabs/Mobile - Flappy Bird - Version 12 Sprites_54 (1).prefab
+  artifactKey: Guid(e89aaf00dfef254489d3d8aab272cb6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mobile - Flappy Bird - Version 12 Sprites_54 (1).prefab using Guid(e89aaf00dfef254489d3d8aab272cb6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8198927c3dbf338cbc2ca5eedb6f936') in 0.090473 seconds 
+  Import took 0.093743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.274649 seconds.
+  path: Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (2).prefab
+  artifactKey: Guid(7399ea0b4dfb35840a6841dca38fbc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (2).prefab using Guid(7399ea0b4dfb35840a6841dca38fbc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1328fe28b457b968834d02ba7a8df9b0') in 0.018044 seconds 
+  Import took 0.021307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.903881 seconds.
+  path: Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (3).prefab
+  artifactKey: Guid(8c7733711c945d34ea5e2205f4f383e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (3).prefab using Guid(8c7733711c945d34ea5e2205f4f383e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0b95fa70b041a264f16289588c0490') in 0.016445 seconds 
+  Import took 0.020348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.449867 seconds.
+  path: Assets/Prefabs/Mobile - Flappy Bird - Version 12 Sprites_53 (1).prefab
+  artifactKey: Guid(6762f48c2ebe2094dbf3891d93cd0f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mobile - Flappy Bird - Version 12 Sprites_53 (1).prefab using Guid(6762f48c2ebe2094dbf3891d93cd0f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5326f12a6c73937606ceaf410e808826') in 0.020140 seconds 
+  Import took 0.023434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.791173 seconds.
+  path: Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (1).prefab
+  artifactKey: Guid(bd16e882bb11aa64ea367c0d865458ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (1).prefab using Guid(bd16e882bb11aa64ea367c0d865458ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77bd7c78da50fa84b739aa691850a08') in 0.015068 seconds 
+  Import took 0.018434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.184364 seconds.
+  path: Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (4).prefab
+  artifactKey: Guid(72c183541a427e14a8f535501a845074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Browser Games - Run Jerry Run - Cheese (4).prefab using Guid(72c183541a427e14a8f535501a845074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f46f487cc8059e8873459d4efb0a09') in 0.013649 seconds 
+  Import took 0.017157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.373040 seconds.
+  path: Assets/Prefabs/Browser Games - Run Jerry Run - Cheese.prefab
+  artifactKey: Guid(63acb5690e7d8a842b94d5176f7a5b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Browser Games - Run Jerry Run - Cheese.prefab using Guid(63acb5690e7d8a842b94d5176f7a5b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c70b959bc0c97976245ffbfb0b696c6') in 0.013960 seconds 
+  Import took 0.017375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 266.550769 seconds.
+  path: Assets/Data.cs
+  artifactKey: Guid(bbb2f5d5d6eecd54497dca8b68782f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data.cs using Guid(bbb2f5d5d6eecd54497dca8b68782f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af95ac6b287674d7b01d94fcc10d56d8') in 0.016597 seconds 
+  Import took 0.019807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.578727 seconds.
+  path: Assets/DataManager.cs
+  artifactKey: Guid(809549ad403709540a3c02abf4d2fd7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DataManager.cs using Guid(809549ad403709540a3c02abf4d2fd7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191cda2addf591825ed972fcc2b3a745') in 0.006882 seconds 
+  Import took 0.010258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.284277 seconds.
+  path: Assets/Image.cs
+  artifactKey: Guid(46de4eb859377d448b178554b694b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Image.cs using Guid(46de4eb859377d448b178554b694b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa15baf3978ea9016798210a02b74aca') in 0.007278 seconds 
+  Import took 0.010731 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: adf39ede17fe7c0429da49a896bb2565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3360320501190161575
+    second: Browser Games - Jerry Steal Cheese - Jerry_0
+  - first:
+      213: -814202772971658953
+    second: Browser Games - Jerry Steal Cheese - Jerry_1
+  - first:
+      213: -7353554941363500414
+    second: Browser Games - Jerry Steal Cheese - Jerry_2
+  - first:
+      213: -6460242277620550092
+    second: Browser Games - Jerry Steal Cheese - Jerry_3
+  - first:
+      213: -3197108261048998034
+    second: Browser Games - Jerry Steal Cheese - Jerry_4
+  - first:
+      213: -1515012454851685439
+    second: Browser Games - Jerry Steal Cheese - Jerry_5
+  - first:
+      213: 336389902825360515
+    second: Browser Games - Jerry Steal Cheese - Jerry_6
+  - first:
+      213: 5977125347288551483
+    second: Browser Games - Jerry Steal Cheese - Jerry_7
+  - first:
+      213: -7633872446112579725
+    second: Browser Games - Jerry Steal Cheese - Jerry_8
+  - first:
+      213: 858370890686684625
+    second: Browser Games - Jerry Steal Cheese - Jerry_9
+  - first:
+      213: 6295432221045425555
+    second: Browser Games - Jerry Steal Cheese - Jerry_10
+  - first:
+      213: -5988456369219699664
+    second: Browser Games - Jerry Steal Cheese - Jerry_11
+  - first:
+      213: 5989339996812745527
+    second: Browser Games - Jerry Steal Cheese - Jerry_12
+  - first:
+      213: -477218090518939187
+    second: Browser Games - Jerry Steal Cheese - Jerry_13
+  - first:
+      213: -7791204413168959961
+    second: Browser Games - Jerry Steal Cheese - Jerry_14
+  - first:
+      213: 9139010134147311228
+    second: Browser Games - Jerry Steal Cheese - Jerry_15
+  - first:
+      213: -4591960851738526596
+    second: Browser Games - Jerry Steal Cheese - Jerry_16
+  - first:
+      213: -2660280179783165598
+    second: Browser Games - Jerry Steal Cheese - Jerry_17
+  - first:
+      213: 3789405695068706437
+    second: Browser Games - Jerry Steal Cheese - Jerry_18
+  - first:
+      213: 7556103497422761197
+    second: Browser Games - Jerry Steal Cheese - Jerry_19
+  - first:
+      213: -4909977309597407445
+    second: Browser Games - Jerry Steal Cheese - Jerry_20
+  - first:
+      213: 6987452436213430836
+    second: Browser Games - Jerry Steal Cheese - Jerry_21
+  - first:
+      213: 6895291442639144879
+    second: Browser Games - Jerry Steal Cheese - Jerry_22
+  - first:
+      213: 6091948878049258446
+    second: Browser Games - Jerry Steal Cheese - Jerry_23
+  - first:
+      213: -7978423290135251287
+    second: Browser Games - Jerry Steal Cheese - Jerry_24
+  - first:
+      213: -6407669766002279260
+    second: Browser Games - Jerry Steal Cheese - Jerry_25
+  - first:
+      213: -3934075935398923868
+    second: Browser Games - Jerry Steal Cheese - Jerry_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b0913de4ebd51d0800000000000000
+      internalID: -3360320501190161575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 395
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e2ed44ee53b4f0800000000000000
+      internalID: -814202772971658953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ac5bbddbce2f990800000000000000
+      internalID: -7353554941363500414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 318
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436777750eb9856a0800000000000000
+      internalID: -6460242277620550092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 318
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6725bfb9f691a3d0800000000000000
+      internalID: -3197108261048998034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d54ef23899fae0800000000000000
+      internalID: -1515012454851685439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 306
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0fe795d81ba400800000000000000
+      internalID: 336389902825360515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 306
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b301e1fc5d303f250800000000000000
+      internalID: 5977125347288551483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f31dcc4790f0690800000000000000
+      internalID: -7633872446112579725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 207
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd5ae8f6cb89eb00800000000000000
+      internalID: 858370890686684625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 207
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39506fa104edd5750800000000000000
+      internalID: 6295432221045425555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 207
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfbbf09aab4eca0800000000000000
+      internalID: -5988456369219699664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 207
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b10158ef86e1350800000000000000
+      internalID: 5989339996812745527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 207
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97a32dca49069f0800000000000000
+      internalID: -477218090518939187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 207
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ebb94add410e390800000000000000
+      internalID: -7791204413168959961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ab84eb4944de70800000000000000
+      internalID: 9139010134147311228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 110
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cff914fe31640c0800000000000000
+      internalID: -4591960851738526596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26913017549c41bd0800000000000000
+      internalID: -2660280179783165598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 110
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586996c076ca69430800000000000000
+      internalID: 3789405695068706437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 110
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec68f1d81cacd860800000000000000
+      internalID: 7556103497422761197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 110
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e73ea6a14cdbb0800000000000000
+      internalID: -4909977309597407445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a707938fa68f060800000000000000
+      internalID: 6987452436213430836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70c45c80ff0bf50800000000000000
+      internalID: 6895291442639144879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb27f16a33fa8450800000000000000
+      internalID: 6091948878049258446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f8c30a42f64190800000000000000
+      internalID: -7978423290135251287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7c6f0c426317a0800000000000000
+      internalID: -6407669766002279260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Jerry Steal Cheese - Jerry_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a17227c7ca5769c0800000000000000
+      internalID: -3934075935398923868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
