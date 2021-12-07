@@ -2,27 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public class PlayerCtrl : MonoBehaviour
 {
     private Animator anim;
     private Rigidbody2D rb;
     private Collider2D coll;
-    public float life=3;
+    public float life=100;
     public float rotation = 1f;
     public Text text;
-    public float Speed=5f;
+    public float speed=5f;
     public float x;
-
   
-    public float speed = 8f;
-
     public float xVelocity;
 
     
     public float jumpForce = 6f;
 
-    int jumpCount;//跳跃次数
+    int jumpCount;
 
     
     public bool isOnGround;
@@ -30,7 +27,7 @@ public class PlayerCtrl : MonoBehaviour
     
     public LayerMask groundLayer;
 
-    //按键设置
+
     bool jumpPress;
 
     void Start()
@@ -125,8 +122,9 @@ public class PlayerCtrl : MonoBehaviour
     {
         if (collision.gameObject.tag == "Cat")
         {
+            SceneManager.LoadScene("end");
             Time.timeScale = 0;
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
         }else if(collision.gameObject.tag == "Obstacle")
         {
             GameObject tom = GameObject.FindWithTag("Cat");
@@ -151,8 +149,8 @@ public class PlayerCtrl : MonoBehaviour
     {
         if(life== 0)
         {
-           
-            gameObject.SetActive(false);
+            SceneManager.LoadScene("end");
+            //gameObject.SetActive(false);
         }
 
     }
