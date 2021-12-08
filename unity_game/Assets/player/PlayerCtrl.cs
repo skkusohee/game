@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System;
+
 public class PlayerCtrl : MonoBehaviour
 {
     private Animator anim;
     private Rigidbody2D rb;
     private Collider2D coll;
-    public float life=100;
+    //public float life=100;
     public float rotation = 1f;
     public Text text;
     public float speed=5f;
@@ -35,6 +37,7 @@ public class PlayerCtrl : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         coll = GetComponent<Collider2D>();
         anim = GetComponent<Animator>();
+        
     }
 
 
@@ -45,8 +48,9 @@ public class PlayerCtrl : MonoBehaviour
             jumpPress = true;
         }
        // MoveUpdate();
-        updateLife();
+      //  updateLife();
     }
+    /*
     void updateLife()
     {
         rotation -= Time.deltaTime;
@@ -61,6 +65,7 @@ public class PlayerCtrl : MonoBehaviour
         }
     }
 
+    */
     void FixedUpdate()
     {
         isOnGroundCheck();
@@ -147,7 +152,7 @@ public class PlayerCtrl : MonoBehaviour
     }
     void death()
     {
-        if(life== 0)
+        if(Int32.Parse(text.text) == 0)
         {
             SceneManager.LoadScene("end");
             //gameObject.SetActive(false);

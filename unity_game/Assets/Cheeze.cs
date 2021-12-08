@@ -2,23 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
 
 public class Cheeze : MonoBehaviour
 {
     public GameObject gameObject;
-    public float life = 10;
+    public float life;
     public Text text;
+
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("cheeze");
+        
         if (collision.gameObject.tag == "Player")
         {
-            Debug.Log("asdfasdf");
+            life = Int32.Parse(text.text);
             life++;
-            Debug.Log(life);
             text.text = "" + life;
-            Destroy(gameObject);
+            gameObject.SetActive(false);
+            //Destroy(gameObject);
            
         }
     }
